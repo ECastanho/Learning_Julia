@@ -3,4 +3,12 @@ This is a simple repository to store stuff that I have been using in order to le
 In order to lear Julia, I am using multiple Sources:
 
 
+- julia scientific programming (Coursera)
 
+https://www.coursera.org/learn/julia-programming
+
+
+
+- JuliaAcademy courses
+
+https://juliaacademy.com/
